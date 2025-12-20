@@ -55,33 +55,20 @@ To restore attentional awareness and provide a natural stopping point without re
 
 ---
 
-## Wireframe Concept (Textual)
-------------------------------------------------
-| Instagram                                   |
-------------------------------------------------
-|                                              |
-|  [Post Image / Reel]                         |
-|  Caption text...                             |
-|                                              |
-|  ♥   💬   ↗   🔖                              |
-|                                              |
-------------------------------------------------
-|                                              |
-|  [Post Image / Reel]                         |
-|  Caption text...                             |
-|                                              |
-|  ♥   💬   ↗   🔖                              |
-|                                              |
-------------------------------------------------
-|                                              |
-|  You’re all caught up for now.                |
-|  Want to keep scrolling or take a break?     |
-|                                              |
-|  [ Continue Scrolling ]   [ Take a Break ]   |
-|                                              |
-------------------------------------------------
+## Wireframe Prototype (Figma)
 
----
+A low fidelity wireframe was created in Figma to demonstrate a cognitive goal driven redesign of Instagram’s late night scrolling experience.
+
+The wireframe focuses on:
+- Introducing stopping cues
+- Restoring task completion signals
+- Reducing sustained attentional load
+
+🔗 **Figma Wireframe Link:**  
+[View Interactive Prototype] https://www.figma.com/make/iuA2fW0VwcmaQwfVZX0glj/Instagram-Feed-Layout?t=PXqLWekSXvBmF1qQ-1
+
+This prototype illustrates how minimal interface interventions can support cognitive recovery without restricting user autonomy.
+
 
 
 ---
