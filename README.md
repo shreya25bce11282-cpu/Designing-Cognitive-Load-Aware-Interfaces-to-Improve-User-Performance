@@ -120,7 +120,7 @@ These principles guide all design decisions in the project.
 
 - Experimental validation using cognitive load metrics
 
-Author
+## Author
 
 Shreya Adhikary
 First-year engineering student
