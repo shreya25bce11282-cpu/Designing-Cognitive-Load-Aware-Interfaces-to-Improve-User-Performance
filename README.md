@@ -123,5 +123,7 @@ These principles guide all design decisions in the project.
 ## Author
 
 Shreya Adhikary
+
 First-year engineering student
+
 Focus: Cognitive Psychology × Human–Computer Interaction
