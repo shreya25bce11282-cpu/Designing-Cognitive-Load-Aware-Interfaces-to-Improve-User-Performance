@@ -129,5 +129,4 @@ Future iterations may include usability testing, behavioral metrics, or interact
 ---
 
 
-But for now — **stop here**.
-You did this correctly.
+
