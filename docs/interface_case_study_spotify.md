@@ -1,22 +1,36 @@
 # Cognitive Load Case Study: Spotify
 
 ## Context of Use
-This case study focuses on a user listening to music while studying or winding down.
+This case study focuses on users listening to music or podcasts while studying, commuting, or winding down. In these situations, the primary intention is passive consumption with minimal cognitive effort.
 
 ## Primary User Goal
-Listen to audio content with minimal cognitive effort.
+Listen to audio content without having to actively monitor or manage the interface.
 
 ## Primary Cognitive Failure
-Sustained background cognitive load caused by algorithmic uncertainty and visual multitasking.
+Background cognitive load caused by algorithmic uncertainty and unnecessary visual engagement during listening.
 
 ## Sources of Extraneous Cognitive Load
-- Unpredictable autoplay and recommendations
-- Simultaneous visual and auditory stimuli
-- Hidden navigation paths and gestures
+
+### Algorithmic Uncertainty
+Autoplay, recommendations, and shuffled playlists create uncertainty about upcoming content.
+- The user does not know what will play next.
+- This forces the brain to stay in a low level prediction and monitoring state.
+
+### Visual Multitasking
+Lyrics, canvas animations, recommendations, and notifications appear while audio is playing.
+- The brain is forced to split attention between auditory and visual streams.
+- This increases working memory and attentional load despite the task being passive.
+
+### Hidden Navigation Complexity
+Multiple nested menus, swipe gestures, and unclear navigation paths.
+- The user must remember interface rules and navigation structure.
+- This places memory load on the user instead of allowing habitual interaction.
 
 ## Why This Overloads Working Memory
-The interface forces the brain to continuously monitor, predict, and evaluate content, consuming working memory resources that should remain unused during passive listening.
+Even during passive listening, the interface demands prediction, monitoring, and memory recall. These processes occupy working memory resources unnecessarily, leading to cognitive fatigue rather than relaxation.
 
 ## Cognitive Design Goal
-Reduce background cognitive load by minimizing prediction demands and visual interference.
+Minimize background cognitive load during listening by reducing visual interference, lowering prediction demands, and simplifying navigation so that audio consumption remains cognitively lightweight.
 
+## Design Direction (Future Scope)
+A listening-focused mode that suppresses visual stimuli and stabilizes playback behavior to support sustained attention and mental recovery.
