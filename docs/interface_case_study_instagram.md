@@ -69,6 +69,9 @@ The wireframe focuses on:
 
 This prototype illustrates how minimal interface interventions can support cognitive recovery without restricting user autonomy.
 
+### Static Preview
+
+![Instagram Cognitive Load–Aware Wireframe](assets/instagram_wireframe.png)
 
 
 ---
