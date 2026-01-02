@@ -9,3 +9,8 @@ Due to the absence of stopping cues in the infinite scroll interface, attention 
 
 ## Cognitive Design Goal
 The goal of this redesign is to introduce interface signals that indicate task completion or natural breakpoints, enabling users to disengage intentionally and reduce attentional fatigue
+
+## Non-Goals
+
+This project does not aim to optimize engagement, retention, or monetization metrics.  
+The focus is on cognitive sustainability and attentional protection under fatigue.
