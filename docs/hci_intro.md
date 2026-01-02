@@ -39,3 +39,6 @@ All of these place unnecessary strain on working memory.
 
 ## How This Leads to My Project
 In my first project, I demonstrated how sleep quality affects stress, which in turn impacts cognitive efficiency. This project investigates whether well designed interfaces can protect human cognition even when users are tired, stressed, or cognitively overloaded.
+
+This project approaches interface design as a cognitive system rather than a visual artifact. All subsequent analyses and design decisions are constrained by psychological limits on attention, working memory, and cognitive recovery.
+
