@@ -37,3 +37,8 @@ Cognitive systems require rest to maintain performance.
 
 In the redesigned interface:
 - Explicit pause and exit cues encourage recovery.
+
+## Future Validation
+
+These interventions could be empirically evaluated using task completion time, subjective fatigue measures, and disengagement latency under controlled cognitive load conditions.
+
