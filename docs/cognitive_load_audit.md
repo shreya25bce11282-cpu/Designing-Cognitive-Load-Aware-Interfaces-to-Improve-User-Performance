@@ -1,5 +1,7 @@
 # Cognitive Load Audit of Real Interfaces
 
+This audit identifies sources of extraneous cognitive load by mapping interface features directly to known cognitive constraints.
+
 ## Interface 1: Instagram
 
 ### Primary Task
